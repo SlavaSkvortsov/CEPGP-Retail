@@ -597,24 +597,6 @@
 							</OnClick>
 						</Scripts>
 					</Button>
-<!--					<Button name="CEPGP_raid_BP" inherits="CEPGPHeaderButton" text="BP">-->
-<!--						<Size>-->
-<!--							<AbsDimension x="50" y="20" />-->
-<!--						</Size>-->
-<!--						<Anchors>-->
-<!--							<Anchor point="TOPRIGHT">-->
-<!--								<Offset>-->
-<!--									<AbsDimension x="-20" y="-50" />-->
-<!--								</Offset>-->
-<!--							</Anchor>-->
-<!--						</Anchors>-->
-<!--						<Scripts>-->
-<!--							<OnClick>-->
-<!--								CEPGP_raidRoster = CEPGP_tSort(CEPGP_raidRoster, 8);-->
-<!--								CEPGP_setCriteria(9, "Raid");-->
-<!--							</OnClick>-->
-<!--						</Scripts>-->
-<!--					</Button>-->
 					<Button name="CEPGP_raid_add_EP" inherits="GameMenuButtonTemplate" text="Add Raid EP">
 						<Size>
 							<AbsDimension x="100" y="21" />
